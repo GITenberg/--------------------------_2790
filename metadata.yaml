@@ -1,0 +1,36 @@
+_repo: '--------------------------_2790'
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Botev, Khristo
+    aliases:
+    - Ботев, Христо
+    - Botev, Hristo
+    - Botev, Christo
+    birthdate: 1848
+    deathdate: 1876
+    gutenberg_agent_id: '1023'
+    url: http://www.gutenberg.org/2009/agents/1023
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Hristo_Botev
+    - http://bg.wikipedia.org/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE_%D0%91%D0%BE%D1%82%D0%B5%D0%B2
+description: The Poems of Hristo Botev
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2790'
+language: bg
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: On parting (in 1868) -- To my first love -- Sharing -- Elegy -- To
+  my mother -- To my brother -- In the tavern -- Hadji Dimitar -- My prayer -- A cloud
+  of darkness has appeared -- Stranger -- Eloped -- The struggle -- St. George's Day
+  -- A patriot -- To her -- Haidouks (father and son) -- Why am I not...? -- A message
+  -- The hanging of Vassil Levski.
+title: Христо Ботев, Стихотворения
+url: http://www.gutenberg.org/ebooks/2790
